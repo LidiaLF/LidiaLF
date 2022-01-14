@@ -11,6 +11,7 @@
 </br>
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white&labelColor=101010)]()
 </br>
-[![HTML](https://img.shields.io/badge/-html-red?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/-html-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
