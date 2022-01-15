@@ -1,4 +1,10 @@
-# Hi, my name is Lidia Loureiro :woman_technologist:	
+# Hi, my name is Lidia :woman_technologist:	
+I have recently graduated from the San Clemente High School (Santiago de Compostela), as a Higher Technician in Multi-platform Application Development.
+
+In my free time, I design simple projects since I need to alternate study and work in a different sector.
+
+All mi projects, up to now building, are made in Galician as I would like to create something that gives visibility and extended use to our language. In this way I hope to do my bit.
+
 
 
 ## Skills:
@@ -18,3 +24,9 @@
 </br>
 [![HTML](https://img.shields.io/badge/-html-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+
+
+
+## Degrees:
+* Higher Technician in Multi-platform Application Development.
+* Professional Certificate in Computer Systems Programming.
