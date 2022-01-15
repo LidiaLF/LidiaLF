@@ -5,7 +5,7 @@ In my free time, I design simple projects since I need to alternate study and wo
 
 All mi projects, up to now, are made in Galician as I would like to create something that gives visibility and extended use to our language. In this way I hope to do my bit.
 
-During the internship I took part of a creative team developing other projects and I would like to go further with a keen eye for AI.
+During the internship I took part of a creative team developing other projects and I would like to go further with a keen interest in AI.
 
 
 
