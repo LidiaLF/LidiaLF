@@ -1,11 +1,11 @@
 # Hi, my name is Lidia :woman_technologist:	
-I have recently graduated from the San Clemente High School (Santiago de Compostela), as a Higher Technician in Multi-platform Application Development.
+I have recently graduated from IES San Clemente in Santiago de Compostela, Spain as a Higher Technician in Multi-platform Application Development.
 
-In my free time, I design simple projects since I need to alternate study and work but in a different sector.
+I currently work as and Administrator but in my free time, I create computer aplications.
 
-All mi projects, up to now, are made in Galician as I would like to create something that gives visibility and extended use to our language. In this way I hope to do my bit.
+All my projects, up to now, are written in Galician as I would like to create something that gives visibility and extended use to our language. In this way I hope to do my bit.
 
-During the internship I took part of a creative team developing other projects and I would like to go further with a keen interest in AI.
+During my curricular internship I thouroughly enjoyed working as part of a creative team of developers and I would like to go further as a programmer with a keen interest in AI.
 
 
 
