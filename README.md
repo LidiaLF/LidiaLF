@@ -13,6 +13,8 @@ During my curricular internship I thouroughly enjoyed working as part of a creat
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
+[![Flutter](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
+</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![Pithon](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 </br>
