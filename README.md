@@ -6,6 +6,7 @@ I currently work as and Administrator but in my free time, I create computer apl
 All my projects, up to now, are written in Galician as I would like to create something that gives visibility and extended use to our language. In this way I hope to do my bit.
 
 During my curricular internship I thouroughly enjoyed working as part of a creative team of developers and I would like to go further as a programmer with a keen interest in AI.
+I have done other work for companies such as Sciam Lab (Rome - Italy) and Sixtemas (Santiago de Compostela)
 
 
 
